@@ -1,6 +1,7 @@
 # installation
 install shortcuts by clicking the header links for any of the shortcuts below
 
+---
 
 ## [Shortcut ➡️repo](https://www.icloud.com/shortcuts/e021cefbd3fa4e61b648282e606cdc38)
 add shortcut to a repo. this one requires "working copy" to be installed. 
